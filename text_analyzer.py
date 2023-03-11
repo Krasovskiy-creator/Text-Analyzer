@@ -1,4 +1,4 @@
-
+# https://colab.research.google.com/drive/1M--JHUZWHshJ3XD3KsIECg-NV4OPodYo#scrollTo=jHy6D_pl3MX1
 import pandas as pd
 import string
 import nltk
